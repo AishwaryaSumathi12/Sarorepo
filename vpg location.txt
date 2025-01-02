@@ -1,0 +1,35 @@
+Location to paste esi:
+=======================
+C:\TwinCAT\3.1\Config\Io\EtherCAT
+
+Location to get ESI:
+=======================
+C:\ti\ind_comms_sdk_am243x_09_02_00_08\examples\industrial_comms\TEST_CODE\device_profiles\401_simple\esi
+
+
+Twincat project saved location:
+=================================
+C:\Users\admin\Documents\TcXaeShell
+
+
+
+
+Flashing location:(soc check loaction)
+C:\ti\mcu_plus_sdk_am243x_10_00_00_20\tools\boot (phycmd)
+have to run Null and qspi command.
+
+
+
+Test code flashing loaction:
+*****************************
+C:\ti\ind_comms_sdk_am243x_09_02_00_08\mcu_plus_sdk\tools\boot>python uart_uniflash.py -p COM16 --cfg=sbl_prebuilt/am243x-lp/default_sbl_ospi.cfg
+(test code falsh loaction)
+
+
+Code delete from workspace:
+*****************************
+C:\Users\admin\workspace_v12
+
+C:\Program Files\Git
+
+
